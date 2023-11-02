@@ -42,7 +42,7 @@ Additional Foundations of Programming (Python) course for students of Moscow Ins
 ---
 ## Refrences:
 
-[Geeksforgeeks](https://www.geeksforgeeks.org/introduction-to-python/)
+[Geeksforgeeks](https://www.geeksforgeeks.org/introduction-to-python/)  
 [Hackerrank](https://www.hackerrank.com/domains/python)
 
 
