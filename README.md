@@ -39,6 +39,12 @@ Additional Foundations of Programming (Python) course for students of Moscow Ins
 - Introduction to Machine Learning
 - Linear Regression
 
+---
+## Refrences:
+
+[Geeksforgeeks](https://www.geeksforgeeks.org/introduction-to-python/)
+[Hackerrank](https://www.hackerrank.com/domains/python)
+
 
 ## Copyright
 
